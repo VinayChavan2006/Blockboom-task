@@ -24,4 +24,3 @@ The Blockbloom project is a blockchain development journey that covers key conce
    - Built a decentralized application (DApp) similar to OLX for buying and selling items.
    - Integrated blockchain technology to ensure transparency and immutability.
 
-## Project Structure
