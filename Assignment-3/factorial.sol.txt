@@ -1,0 +1,22 @@
+// SPDX-License-Identifier: MIT
+pragma solidity ^0.8.26;
+
+contract Factorial{
+    function factorial(uint x) public pure returns(uint) {
+        uint ans = 1;
+        if(x == 0 || x == 1){
+            return ans;
+        }
+        for(uint i=x;i>1;i--){
+            ans = ans*i;
+        }
+        return ans;
+    }
+
+    function factRec(uint x) public pure returns(uint) {
+        if(x == 0||x == 1){
+            return 1;
+        }
+        return x*factRec(x-1);
+    }
+}
