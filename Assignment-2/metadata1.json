@@ -1,0 +1,24 @@
+{
+  "name": "A cute Dog",
+  "external_link": "",
+  "description": "A cute dog image.",
+  "image": "https://rose-fashionable-narwhal-565.mypinata.cloud/ipfs/bafkreicdwnrglyrts4ggty36gjzplq5mcpwczdovb55os3kcsn6waqb2p4",
+  "attributes": [
+    {
+      "trait_type": "Stamina",
+      "value": 5
+    },
+    {
+      "trait_type": "Generation",
+      "value": 6
+    },
+    {
+      "trait_type": "What is it?",
+      "value": "Picture"
+    },
+    {
+      "trait_type": "Mood",
+      "value": "Cute, Appealing"
+    }
+  ]
+}
